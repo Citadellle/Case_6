@@ -1,3 +1,6 @@
+# Part of case-study #6
+# Case has been done by Mihail Gordeev and Sergey Chirkov
+
 from textblob import TextBlob
 from mtranslate import translate
 from re import sub
@@ -139,4 +142,5 @@ def main():
 
 
 if __name__ == '__main__':
+
     main()
