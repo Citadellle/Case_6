@@ -1,5 +1,5 @@
 # Part of case-study #6
-# Case has been done by Mihail Gordeev and Sergey Chirkov
+# Case has been done by Mihail Gordeev, Sergey Chirkov and Nezhinsky Dmitriy
 
 from textblob import TextBlob
 from mtranslate import translate
@@ -144,3 +144,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
